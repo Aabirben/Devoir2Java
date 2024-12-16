@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "date": "2024-11-21",
+    "amount": 21.47,
+    "customerId": 1,
+    "status": "Processing"
+  },
+  {
+    "id": 3,
+    "date": "2024-11-17",
+    "amount": 350.82,
+    "customerId": 2,
+    "status": "Processing"
+  },
+  {
+    "id": 5,
+    "date": "2024-11-25",
+    "amount": 153.65,
+    "customerId": 3,
+    "status": "Completed"
+  },
+  {
+    "id": 7,
+    "date": "2024-12-02",
+    "amount": 92.77,
+    "customerId": 1,
+    "status": "Completed"
+  }
+]
