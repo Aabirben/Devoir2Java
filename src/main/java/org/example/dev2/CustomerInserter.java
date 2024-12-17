@@ -10,9 +10,9 @@ public class CustomerInserter {
     public static void addCustomers() {
         // Les données des clients
         Object[][] customers = {
-                {1, "John Doe", "john.doe@example.com", "1234567890"},
-                {2, "Jane Smith", "jane.smith@example.com", "0987654321"},
-                {3, "Alice Brown", "alice.brown@example.com", "1122334455"},
+                {1, "aabir ben", "aabir.ben@example.com", "1234567890"},
+                {2, "mouna ait", "mouna.aiy@example.com", "0987654321"},
+                {3, "yahya ben", "yahya.ben@example.com", "1122334455"},
         };
 
         // Requête SQL pour insérer un client
