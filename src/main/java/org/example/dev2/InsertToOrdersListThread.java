@@ -18,7 +18,7 @@ public class InsertToOrdersListThread extends Thread {
     private final List<Order> orders;
 
     public InsertToOrdersListThread(Object mutex, List<Order> orders) {
-        db = new DBConnexion();  // Assurez-vous que DBConnexion est correctement initialisée
+        db = new DBConnexion();  
         this.mutex = mutex;
         this.orders = orders;
     }
