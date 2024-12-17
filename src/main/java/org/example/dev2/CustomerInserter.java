@@ -11,7 +11,7 @@ public class CustomerInserter {
         // Les données des clients
         Object[][] customers = {
                 {1, "aabir ben", "aabir.ben@example.com", "1234567890"},
-                {2, "mouna ait", "mouna.aiy@example.com", "0987654321"},
+                {2, "mouna ait", "mouna.ait@example.com", "0987654321"},
                 {3, "yahya ben", "yahya.ben@example.com", "1122334455"},
         };
 
